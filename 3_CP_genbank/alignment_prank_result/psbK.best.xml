@@ -1,0 +1,100 @@
+<ms_alignment>
+<newick>(seq1:0.19976,((((seq2:0.11422,seq3:0.08250)#1#:0.00351,(seq4:0.05800,(seq5:0.01935,seq6:0.03150)#2#:0.02480)#4#:0.01952)#6#:0.01115,seq7:0.05669)#7#:0.01634,((seq8:0.02775,seq9:0.02143)#3#:0.02052,seq10:0.02866)#5#:0.08381)#8#:0.05454)#9#:0.00000;</newick>
+<nodes>
+<leaf id="seq1" name="P.patens_<unknown_description>">
+  <sequence>
+    MLAIF-N---IYLDNAFHLNGIILAKLPEAYAIFDPIVDVMPIIPVFFFLLAFVWQASVSFR
+  </sequence>
+</leaf>
+<leaf id="seq2" name="A.thaliana_<unknown_description>">
+  <sequence>
+    MLNIF-NLICIFFNSTLFSSTFLVAKLPEAYAFLNPIVDVMPVIPLFFLLLAFVWQAAVSFR
+  </sequence>
+</leaf>
+<leaf id="seq3" name="G.max_<unknown_description>">
+  <sequence>
+    MLNIF-NLVCICIHSVLYSSSFFSAKLPEAYAFLNPIVDIMPVIPLLFFLLAFVWQAAVSFR
+  </sequence>
+</leaf>
+<leaf id="seq4" name="tomato_<unknown_description>">
+  <sequence>
+    MLNTF-SLIGICLNSTLYSSSFFFGKLPEAYAFLNPIVDIMPVIPLFFFLLAFVWQAAVSFR
+  </sequence>
+</leaf>
+<leaf id="seq5" name="L.sativa_<unknown_description>">
+  <sequence>
+    MLNIF-SL--ICLNSALYPSSLFFAKLPEAYAFLNPIVDVMPVIPLFFFLLAFVWQAAVSFR
+  </sequence>
+</leaf>
+<leaf id="seq6" name="D.carota_<unknown_description>">
+  <sequence>
+    MLNIF-SLICICLNSAFYSSSLFFAKLPEAYAFLNPIVDLMPVIPLFFFLLAFVWQAAVSFR
+  </sequence>
+</leaf>
+<leaf id="seq7" name="S.polyrhiza_<unknown_description>">
+  <sequence>
+    MLNIFLNLICICLNSVLSSSSFFFGKLPEAYAIFNPIVDIMPVIPLFFFLLAFVWQAAVSFR
+  </sequence>
+</leaf>
+<leaf id="seq8" name="oryza_sativa_<unknown_description>">
+  <sequence>
+    MPNIL-SLTCICFNSVIYPTSFFFAKLPEAYAIFNPIVDFMPVIPVLFFLLAFVWQAAVSFR
+  </sequence>
+</leaf>
+<leaf id="seq9" name="S.viridis_<unknown_description>">
+  <sequence>
+    MPNIL-SLTCICFNSVLCPTSFFFAKLPEAYAIFNPIVDVMPVIPVLFFLLAFVWQAAVSFR
+  </sequence>
+</leaf>
+<leaf id="seq10" name="B.distachyon_<unknown_description>">
+  <sequence>
+    MPNIL-SLTCICFNCVLYPTSFFFAKLPEAYAIFNPIVDFMPVIPLFFFLLAFVWQAAVSFR
+  </sequence>
+</leaf>
+<node id="#1#">
+  <sequence>
+    MLNIF-SLICICLNSAFYPSSLFFAKLPEAYAFLNPIVDVMPVIPLFFFLLAFVWQAAVSFR
+  </sequence>
+</node>
+<node id="#2#">
+  <sequence>
+    MLNIF-NLICICLNSVLYSSSFFFAKLPEAYAFLNPIVDIMPVIPLFFFLLAFVWQAAVSFR
+  </sequence>
+</node>
+<node id="#4#">
+  <sequence>
+    MLNIF-NLICICLNSTLYSSSFFFAKLPEAYAFLNPIVDIMPVIPLFFFLLAFVWQAAVSFR
+  </sequence>
+</node>
+<node id="#6#">
+  <sequence>
+    MLNIF-SLICICLNSALYSSSLFFAKLPEAYAFLNPIVDIMPVIPLFFFLLAFVWQAAVSFR
+  </sequence>
+</node>
+<node id="#7#">
+  <sequence>
+    MPNIL-SLTCICFNSVICPTSFFFAKLPEAYAIFNPIVDFMPVIPVLFFLLAFVWQAAVSFR
+  </sequence>
+</node>
+<node id="#3#">
+  <sequence>
+    MLNIF-NLICICLNSVLYSSSFFFAKLPEAYAIFNPIVDIMPVIPLFFFLLAFVWQAAVSFR
+  </sequence>
+</node>
+<node id="#5#">
+  <sequence>
+    MLNIF-NLICICLNSVLYSSSFFFAKLPEAYAIFNPIVDIMPVIPLFFFLLAFVWQAAVSFR
+  </sequence>
+</node>
+<node id="#8#">
+  <sequence>
+    MPNIL-SLTCICFNCVLYPTSFFFAKLPEAYAIFNPIVDFMPVIPVFFFLLAFVWQAAVSFR
+  </sequence>
+</node>
+<node id="#9#">
+  <sequence>
+    MLNIF-NLICICIHSVLYSSSFFSAKLPEAYAFLNPIVDIMPVIPLFFFLLAFVWQAAVSFR
+  </sequence>
+</node>
+</nodes>
+</ms_alignment>
