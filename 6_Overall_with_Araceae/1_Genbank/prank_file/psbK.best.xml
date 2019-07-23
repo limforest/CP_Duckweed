@@ -1,0 +1,120 @@
+<ms_alignment>
+<newick>((((seq1:0.04524,seq2:0.00315)#1#:0.05666,seq3:0.01592)#5#:0.01685,seq4:0.05170)#8#:0.03881,((((seq5:0.01615,seq6:0.00010)#2#:0.00010,seq7:0.00010)#6#:0.00801,(seq8:0.03147,seq9:0.01692)#3#:0.00812)#9#:0.00723,(seq10:0.02246,(seq11:0.08592,seq12:0.11080)#4#:0.02672)#7#:0.01615)#10#:0.00389)#11#:0.00000;</newick>
+<nodes>
+<leaf id="seq1" name="Wolffia_australiana">
+  <sequence>
+    MLNIFLNLICICLNSAVSSSSSVFLGKLPEAYAIFNPLIDILPIIPLFFFLLAFVWQAAVSFR
+  </sequence>
+</leaf>
+<leaf id="seq2" name="Wolffiella_lingulata">
+  <sequence>
+    MLNIFLNLICICLNSAVSSSS-VFLGKLPEAYAIFNPIIDIMPVIPLFFFLLAFVWQAAVSFR
+  </sequence>
+</leaf>
+<leaf id="seq3" name="Spirodela_polyrhiza">
+  <sequence>
+    MLNIFLNLICICLNSVLSSSS-FFFGKLPEAYAIFNPIVDIMPVIPLFFFLLAFVWQAAVSFR
+  </sequence>
+</leaf>
+<leaf id="seq4" name="Lemna_minor">
+  <sequence>
+    MLNPFFNLICICLNSALSSSG-VFFGKLPEAYAIFNPIVDIMPVIPVFFFLLAFVWQAAVSFR
+  </sequence>
+</leaf>
+<leaf id="seq5" name="Colocasia_esculenta">
+  <sequence>
+    MLNIFFSLICICLDSALSSSS-FFFGKLPEAYALFNPIVDIMPVIPVLFFLLAFVWQAAVSFR
+  </sequence>
+</leaf>
+<leaf id="seq6" name="Zantedeschia_aethiopica">
+  <sequence>
+    MLNIFFSLICICLNSALSSSS-FFFGKLPEAYALFNPIVDIMPVIPVLFFLLAFVWQAAVSFR
+  </sequence>
+</leaf>
+<leaf id="seq7" name="Pinellia_ternata">
+  <sequence>
+    MLNIFFSLICICLNSALSSSS-FFFGKLPEAYALFNPIVDIMPVIPVLFFLLAFVWQAAVSFR
+  </sequence>
+</leaf>
+<leaf id="seq8" name="Epipremnum_aureum">
+  <sequence>
+    MLNIFFSLICICFNSILSSSS-FFFGKLPEAYALFNPIIDIMPVIPVLFFLLAFVWQAAVSFR
+  </sequence>
+</leaf>
+<leaf id="seq9" name="Dieffenbachia_seguine">
+  <sequence>
+    MLNILFSLICICLNSALSSSS-FFFGKLPEAYALFNPIIDIMPVIPVLFFLLAFVWQAAVSFR
+  </sequence>
+</leaf>
+<leaf id="seq10" name="Symplocarpus_renifolius">
+  <sequence>
+    MLNI-FSLICICINSALYSSS-FFFGKLPEAYALFNPIVDVMPVIPVLFFLLAFVWQAAVSFR
+  </sequence>
+</leaf>
+<leaf id="seq11" name="Alocasia_macrorrhizos">
+  <sequence>
+    MFNI-FSLICICLNSTPYSSS-FFFAKLPEAYAFFNPIVDVMPIIPLLFFLLAFVWQAAVSFR
+  </sequence>
+</leaf>
+<leaf id="seq12" name="Zea_mays">
+  <sequence>
+    MPNI-LSLTCICFNSVLCPTS-FFFAKLPEAYAIFNPIVDVMPVIPVLFFLLAFVWQAAVSFR
+  </sequence>
+</leaf>
+<node id="#1#">
+  <sequence>
+    MLNIFLNLICICLNSAVSSSS-VFLGKLPEAYAIFNPIIDIMPVIPLFFFLLAFVWQAAVSFR
+  </sequence>
+</node>
+<node id="#5#">
+  <sequence>
+    MLNIFLNLICICLNSVLSSSS-FFFGKLPEAYAIFNPIVDIMPVIPLFFFLLAFVWQAAVSFR
+  </sequence>
+</node>
+<node id="#8#">
+  <sequence>
+    MLNIFLNLICICLNSALSSSS-VFFGKLPEAYAIFNPIVDIMPVIPLFFFLLAFVWQAAVSFR
+  </sequence>
+</node>
+<node id="#2#">
+  <sequence>
+    MLNIFFSLICICLNSALSSSS-FFFGKLPEAYALFNPIVDIMPVIPVLFFLLAFVWQAAVSFR
+  </sequence>
+</node>
+<node id="#6#">
+  <sequence>
+    MLNIFFSLICICFNSALSSSS-FFFGKLPEAYALFNPIIDIMPVIPVLFFLLAFVWQAAVSFR
+  </sequence>
+</node>
+<node id="#3#">
+  <sequence>
+    MFNI-FSLICICFNSTPCPSS-FFFAKLPEAYAFFNPIVDVMPIIPLLFFLLAFVWQAAVSFR
+  </sequence>
+</node>
+<node id="#9#">
+  <sequence>
+    MLNIFFSLICICLNSALSSSS-FFFGKLPEAYALFNPIIDIMPVIPVLFFLLAFVWQAAVSFR
+  </sequence>
+</node>
+<node id="#4#">
+  <sequence>
+    MLNIFFSLICICLNSALSSSS-FFFGKLPEAYALFNPIVDIMPVIPVLFFLLAFVWQAAVSFR
+  </sequence>
+</node>
+<node id="#7#">
+  <sequence>
+    MLNIFFSLICICLNSALSSSS-FFFGKLPEAYALFNPIVDIMPVIPVLFFLLAFVWQAAVSFR
+  </sequence>
+</node>
+<node id="#10#">
+  <sequence>
+    MLNI-FSLICICINSALYSSS-FFFGKLPEAYALFNPIVDVMPVIPVLFFLLAFVWQAAVSFR
+  </sequence>
+</node>
+<node id="#11#">
+  <sequence>
+    MLNIFFSLICICLNSALSSSS-FFFGKLPEAYALFNPIVDIMPVIPVLFFLLAFVWQAAVSFR
+  </sequence>
+</node>
+</nodes>
+</ms_alignment>

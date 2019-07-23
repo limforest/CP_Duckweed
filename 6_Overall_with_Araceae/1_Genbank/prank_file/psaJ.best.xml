@@ -1,0 +1,120 @@
+<ms_alignment>
+<newick>((((seq1:0.00010,seq2:0.02381)#1#:0.02116,seq3:0.00265)#4#:0.02381,seq4:0.02381)#7#:0.02414,((((seq5:0.00137,seq6:0.00137)#2#:0.00137,seq7:0.00137)#5#:0.00137,(((seq8:0.00479,seq9:0.01902)#3#:0.00573,seq10:0.00564)#6#:0.02087,seq11:0.02107)#8#:0.00183)#9#:0.01008,seq12:0.01190)#10#:0.03538)#11#:0.00000;</newick>
+<nodes>
+<leaf id="seq1" name="Wolffia_australiana">
+  <sequence>
+    MQDLKTYLSVAPVLSTLWFAILAGLLIEINRLFPDALLFPFF------
+  </sequence>
+</leaf>
+<leaf id="seq2" name="Wolffiella_lingulata">
+  <sequence>
+    MQDLKTYLSVAPVVSTLWFAILAGLLIEINRLFPDALLFPFF------
+  </sequence>
+</leaf>
+<leaf id="seq3" name="Lemna_minor">
+  <sequence>
+    MQDLKTYLSVAPVLSTLWFGILAGLLIEINRLFPDALLFPFF------
+  </sequence>
+</leaf>
+<leaf id="seq4" name="Spirodela_polyrhiza">
+  <sequence>
+    MQDLKTYLSVAPVLSTLWFAVLAGLLIEINRLFPDALSFPFF------
+  </sequence>
+</leaf>
+<leaf id="seq5" name="Epipremnum_aureum">
+  <sequence>
+    MRDIKTYLSVAPVLSTLWFGSLAGLLIEINRLFPDALSFPFF--HSSY
+  </sequence>
+</leaf>
+<leaf id="seq6" name="Pinellia_ternata">
+  <sequence>
+    MRDIKTYLSVAPVLSTLWFGSLAGLLIEINRLFPDALSFPFF------
+  </sequence>
+</leaf>
+<leaf id="seq7" name="Colocasia_esculenta">
+  <sequence>
+    MRDIKTYLSVAPVLSTLWFGSLAGLLIEINRLFPDALSFPFF------
+  </sequence>
+</leaf>
+<leaf id="seq8" name="Symplocarpus_renifolius">
+  <sequence>
+    MRDIKTYLSVAPVLTTLWFGSLAGLLIEINRLFPDALSFPFFTF----
+  </sequence>
+</leaf>
+<leaf id="seq9" name="Alocasia_macrorrhizos">
+  <sequence>
+    MRDIKTYLSTAPVLTTLWFGSLAGLLIEINRLFPDALSFPFF------
+  </sequence>
+</leaf>
+<leaf id="seq10" name="Zantedeschia_aethiopica">
+  <sequence>
+    MRDIKTYLSVAPVLTTLWFGSLAGLLIEINRLFPDALSFPFFSF----
+  </sequence>
+</leaf>
+<leaf id="seq11" name="Dieffenbachia_seguine">
+  <sequence>
+    MRDIKTYLSVAPVLSTLWFGSLAALLIEINRLFPDALSFPFF------
+  </sequence>
+</leaf>
+<leaf id="seq12" name="Zea_mays">
+  <sequence>
+    MRDIKTYLSVAPVLSTLWFGALAGLLIEINRLFPDALSFPFF------
+  </sequence>
+</leaf>
+<node id="#1#">
+  <sequence>
+    MQDLKTYLSVAPVLSTLWFAILAGLLIEINRLFPDALLFPFF------
+  </sequence>
+</node>
+<node id="#4#">
+  <sequence>
+    MQDLKTYLSVAPVLSTLWFGILAGLLIEINRLFPDALLFPFF------
+  </sequence>
+</node>
+<node id="#7#">
+  <sequence>
+    MQDLKTYLSVAPVLSTLWFAILAGLLIEINRLFPDALSFPFF------
+  </sequence>
+</node>
+<node id="#2#">
+  <sequence>
+    MRDIKTYLSVAPVLSTLWFGSLAGLLIEINRLFPDALSFPFF------
+  </sequence>
+</node>
+<node id="#5#">
+  <sequence>
+    MRDIKTYLSVAPVLTTLWFGSLAGLLIEINRLFPDALSFPFFTF----
+  </sequence>
+</node>
+<node id="#3#">
+  <sequence>
+    MRDIKTYLSVAPVLTTLWFGSLAGLLIEINRLFPDALSFPFF------
+  </sequence>
+</node>
+<node id="#6#">
+  <sequence>
+    MRDIKTYLSVAPVLSTLWFGSLAGLLIEINRLFPDALSFPFF------
+  </sequence>
+</node>
+<node id="#8#">
+  <sequence>
+    MRDIKTYLSVAPVLSTLWFGSLAGLLIEINRLFPDALSFPFF------
+  </sequence>
+</node>
+<node id="#9#">
+  <sequence>
+    MRDIKTYLSVAPVLTTLWFGSLAGLLIEINRLFPDALSFPFFSF----
+  </sequence>
+</node>
+<node id="#10#">
+  <sequence>
+    MQDIKTYLSVAPVLSTLWFGVLAGLLIEINRLFPDALSFPFF------
+  </sequence>
+</node>
+<node id="#11#">
+  <sequence>
+    MRDIKTYLSVAPVLSTLWFGSLAGLLIEINRLFPDALSFPFF------
+  </sequence>
+</node>
+</nodes>
+</ms_alignment>

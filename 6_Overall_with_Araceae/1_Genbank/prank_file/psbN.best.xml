@@ -1,0 +1,120 @@
+<ms_alignment>
+<newick>((((((((((seq1:0.00010,seq2:0.00010)#1#:0.00010,seq3:0.00010)#3#:0.00010,seq4:0.00010)#4#:0.00010,seq5:0.00010)#5#:0.00010,seq6:0.02326)#6#:0.00010,seq7:0.00010)#7#:0.00010,seq8:0.00010)#8#:0.00010,seq9:0.00010)#9#:0.00010,seq10:0.00010)#10#:0.00010,(seq11:0.02326,seq12:0.00010)#2#:0.00010)#11#:0.00000;</newick>
+<nodes>
+<leaf id="seq1" name="Wolffia_australiana">
+  <sequence>
+    METATLVAISISGLLVSFTGYALYTAFGQPSQQLRDPFEEHGD
+  </sequence>
+</leaf>
+<leaf id="seq2" name="Lemna_minor">
+  <sequence>
+    METATLVAISISGLLVSFTGYALYTAFGQPSQQLRDPFEEHGD
+  </sequence>
+</leaf>
+<leaf id="seq3" name="Spirodela_polyrhiza">
+  <sequence>
+    METATLVAISISGLLVSFTGYALYTAFGQPSQQLRDPFEEHGD
+  </sequence>
+</leaf>
+<leaf id="seq4" name="Wolffiella_lingulata">
+  <sequence>
+    METATLVAISISGLLVSFTGYALYTAFGQPSQQLRDPFEEHGD
+  </sequence>
+</leaf>
+<leaf id="seq5" name="Epipremnum_aureum">
+  <sequence>
+    METATLVAISISGLLVSFTGYALYTAFGQPSQQLRDPFEEHGD
+  </sequence>
+</leaf>
+<leaf id="seq6" name="Symplocarpus_renifolius">
+  <sequence>
+    METATLVAISISGSLVSFTGYALYTAFGQPSQQLRDPFEEHGD
+  </sequence>
+</leaf>
+<leaf id="seq7" name="Dieffenbachia_seguine">
+  <sequence>
+    METATLVAISISGLLVSFTGYALYTAFGQPSQQLRDPFEEHGD
+  </sequence>
+</leaf>
+<leaf id="seq8" name="Colocasia_esculenta">
+  <sequence>
+    METATLVAISISGLLVSFTGYALYTAFGQPSQQLRDPFEEHGD
+  </sequence>
+</leaf>
+<leaf id="seq9" name="Pinellia_ternata">
+  <sequence>
+    METATLVAISISGLLVSFTGYALYTAFGQPSQQLRDPFEEHGD
+  </sequence>
+</leaf>
+<leaf id="seq10" name="Zantedeschia_aethiopica">
+  <sequence>
+    METATLVAISISGLLVSFTGYALYTAFGQPSQQLRDPFEEHGD
+  </sequence>
+</leaf>
+<leaf id="seq11" name="Alocasia_macrorrhizos">
+  <sequence>
+    METATLVAISISGLLVSFTGYALYTAFGQPSQKLRDPFEEHGD
+  </sequence>
+</leaf>
+<leaf id="seq12" name="Zea_mays">
+  <sequence>
+    METATLVAISISGLLVSFTGYALYTAFGQPSQQLRDPFEEHGD
+  </sequence>
+</leaf>
+<node id="#1#">
+  <sequence>
+    METATLVAISISGLLVSFTGYALYTAFGQPSQQLRDPFEEHGD
+  </sequence>
+</node>
+<node id="#3#">
+  <sequence>
+    METATLVAISISGLLVSFTGYALYTAFGQPSQQLRDPFEEHGD
+  </sequence>
+</node>
+<node id="#4#">
+  <sequence>
+    METATLVAISISGLLVSFTGYALYTAFGQPSQQLRDPFEEHGD
+  </sequence>
+</node>
+<node id="#5#">
+  <sequence>
+    METATLVAISISGLLVSFTGYALYTAFGQPSQQLRDPFEEHGD
+  </sequence>
+</node>
+<node id="#6#">
+  <sequence>
+    METATLVAISISGLLVSFTGYALYTAFGQPSQQLRDPFEEHGD
+  </sequence>
+</node>
+<node id="#7#">
+  <sequence>
+    METATLVAISISGLLVSFTGYALYTAFGQPSQQLRDPFEEHGD
+  </sequence>
+</node>
+<node id="#8#">
+  <sequence>
+    METATLVAISISGLLVSFTGYALYTAFGQPSQQLRDPFEEHGD
+  </sequence>
+</node>
+<node id="#9#">
+  <sequence>
+    METATLVAISISGLLVSFTGYALYTAFGQPSQQLRDPFEEHGD
+  </sequence>
+</node>
+<node id="#10#">
+  <sequence>
+    METATLVAISISGLLVSFTGYALYTAFGQPSQQLRDPFEEHGD
+  </sequence>
+</node>
+<node id="#2#">
+  <sequence>
+    METATLVAISISGLLVSFTGYALYTAFGQPSQQLRDPFEEHGD
+  </sequence>
+</node>
+<node id="#11#">
+  <sequence>
+    METATLVAISISGLLVSFTGYALYTAFGQPSQQLRDPFEEHGD
+  </sequence>
+</node>
+</nodes>
+</ms_alignment>

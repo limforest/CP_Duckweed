@@ -1,0 +1,120 @@
+<ms_alignment>
+<newick>((seq1:0.03202,(seq2:0.10457,seq3:0.10755)#1#:0.04374)#4#:0.00585,(((seq4:0.02842,((seq5:0.01520,seq6:0.00010)#2#:0.01372,seq7:0.01659)#5#:0.00188)#7#:0.00209,((seq8:0.02515,(seq9:0.00010,seq10:0.00010)#3#:0.00426)#6#:0.01389,seq11:0.04493)#8#:0.07416)#9#:0.00863,seq12:0.13889)#10#:0.01825)#11#:0.00000;</newick>
+<nodes>
+<leaf id="seq1" name="Symplocarpus_renifolius">
+  <sequence>
+    MAKGKDVRVRVILECTSCVR--NGVNKESPGISRYITQKNRHNTPSRLELKKFCRYCYKHMIHGEIKK
+  </sequence>
+</leaf>
+<leaf id="seq2" name="Alocasia_macrorrhizos">
+  <sequence>
+    MAKGKDIRIIVILECTCCVR--KGVNKESPGISRYITQKNRHNTPNRLEFRKFCRYCQKYTIHGEIKK
+  </sequence>
+</leaf>
+<leaf id="seq3" name="Zea_mays">
+  <sequence>
+    MAKGKDVRIRVILECISCVR--KGTNKESTGISRYSTQKNRHNTPGQLELRKFCRYCRKHTTHNEIKK
+  </sequence>
+</leaf>
+<leaf id="seq4" name="Dieffenbachia_seguine">
+  <sequence>
+    MAKGKDVRVRVILECTNCVR--NGVIKEFPGISRYITQKNRHNTPSRLELKKFCRYCNKHTIHGEVKK
+  </sequence>
+</leaf>
+<leaf id="seq5" name="Colocasia_esculenta">
+  <sequence>
+    VAKGKDVRVRVILECTSCVR--NGVTKEFPGISRYITQKNRHNTPSRLELKKFCRYCKKHTIHGEVKK
+  </sequence>
+</leaf>
+<leaf id="seq6" name="Pinellia_ternata">
+  <sequence>
+    MAKGKDVRVRVILECTSCVR--NGVTKEFPGISRYITQKNRHNTPSRLELKKFCRYCKKHTIHGEVKK
+  </sequence>
+</leaf>
+<leaf id="seq7" name="Zantedeschia_aethiopica">
+  <sequence>
+    MAKGKDVRVRVILECTSCVR--NGVTKEFPGISRYITQKNRHNTPSQLELKKFCRYCNKHTIHGEVKK
+  </sequence>
+</leaf>
+<leaf id="seq8" name="Wolffia_australiana">
+  <sequence>
+    MAKGKDVRVRVILECNSCGRNENGATKEVPGVSRYVTQKNRHNTPGRLELKKFCRYCNKHTIHVEVKK
+  </sequence>
+</leaf>
+<leaf id="seq9" name="Lemna_minor">
+  <sequence>
+    MAKGKDVRVRVILECNSCGRNENGVTKEVPGVSRYVTQKNRHNTPSRLELKKFCRYCNKHTIHVEVKK
+  </sequence>
+</leaf>
+<leaf id="seq10" name="Spirodela_polyrhiza">
+  <sequence>
+    MAKGKDVRVRVILECNSCGRNENGVTKEVPGVSRYVTQKNRHNTPSRLELKKFCRYCNKHTIHVEVKK
+  </sequence>
+</leaf>
+<leaf id="seq11" name="Wolffiella_lingulata">
+  <sequence>
+    MAKGKDVRVRVILECTSCGKNENGATKEVPGVSRYVTQKNRHNTPSRLELKKFCRYCNKHIIHMEVKK
+  </sequence>
+</leaf>
+<leaf id="seq12" name="Epipremnum_aureum">
+  <sequence>
+    MKKEKNVRVIVILECTSCVR--NGVIKEFSGISRYITEKNRYNTP--LELKKFCRYCKKHTTHEEVKK
+  </sequence>
+</leaf>
+<node id="#1#">
+  <sequence>
+    MAKGKDVRVRVILECTSCVR--NGVNKESPGISRYITQKNRHNTPSRLELKKFCRYCYKHMIHGEIKK
+  </sequence>
+</node>
+<node id="#4#">
+  <sequence>
+    MAKGKDIRIRVILECICCVR--KGTNKESPGISRYITQKNRHNTPNQLEFRKFCRYCQKHTIHNEIKK
+  </sequence>
+</node>
+<node id="#2#">
+  <sequence>
+    MAKGKDVRVRVILECTSCVR--NGVTKEFPGISRYITQKNRHNTPSRLELKKFCRYCNKHTIHGEVKK
+  </sequence>
+</node>
+<node id="#5#">
+  <sequence>
+    MAKGKDVRVRVILECNSCGRNENGVTKEVPGVSRYVTQKNRHNTPSRLELKKFCRYCNKHTIHVEVKK
+  </sequence>
+</node>
+<node id="#7#">
+  <sequence>
+    MAKGKDVRVRVILECTSCVR--NGVTKEFPGISRYITQKNRHNTPSRLELKKFCRYCNKHTIHGEVKK
+  </sequence>
+</node>
+<node id="#3#">
+  <sequence>
+    MAKGKDVRVRVILECTSCVR--NGVTKEFPGISRYITQKNRHNTPSRLELKKFCRYCNKHTIHGEVKK
+  </sequence>
+</node>
+<node id="#6#">
+  <sequence>
+    MAKGKDVRVRVILECNSCGRNENGATKEVPGVSRYVTQKNRHNTPSRLELKKFCRYCNKHTIHMEVKK
+  </sequence>
+</node>
+<node id="#8#">
+  <sequence>
+    MAKGKDVRVRVILECTSCVR--NGVTKEFPGISRYITQKNRHNTPSRLELKKFCRYCNKHTIHGEVKK
+  </sequence>
+</node>
+<node id="#9#">
+  <sequence>
+    MAKGKDVRVRVILECNSCGRNENGVTKEVPGVSRYVTQKNRHNTPSRLELKKFCRYCNKHTIHVEVKK
+  </sequence>
+</node>
+<node id="#10#">
+  <sequence>
+    MAKGKDVRVRVILECTSCVR--NGVNKESPGISRYITQKNRHNTPSRLELKKFCRYCNKHTIHGEIKK
+  </sequence>
+</node>
+<node id="#11#">
+  <sequence>
+    MAKGKDVRVRVILECTSCVR--NGVTKEFPGISRYITQKNRHNTPSRLELKKFCRYCKKHTIHGEVKK
+  </sequence>
+</node>
+</nodes>
+</ms_alignment>

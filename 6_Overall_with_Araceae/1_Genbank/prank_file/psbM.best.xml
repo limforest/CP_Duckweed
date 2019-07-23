@@ -1,0 +1,120 @@
+<ms_alignment>
+<newick>(((((((((seq1:0.00010,seq2:0.00010)#1#:0.00010,seq3:0.00010)#4#:0.00010,seq4:0.00010)#5#:0.00010,(seq5:0.02941,seq6:0.02941)#2#:0.00010)#6#:0.00010,seq7:0.00010)#7#:0.00010,seq8:0.00010)#8#:0.00010,seq9:0.00010)#9#:0.00010,seq10:0.00010)#10#:0.00010,(seq11:0.00010,seq12:0.00010)#3#:0.00010)#11#:0.00000;</newick>
+<nodes>
+<leaf id="seq1" name="Wolffia_australiana">
+  <sequence>
+    MEVNILAFIATALFILVPTAFLLIIYVKTVSQND
+  </sequence>
+</leaf>
+<leaf id="seq2" name="Lemna_minor">
+  <sequence>
+    MEVNILAFIATALFILVPTAFLLIIYVKTVSQND
+  </sequence>
+</leaf>
+<leaf id="seq3" name="Spirodela_polyrhiza">
+  <sequence>
+    MEVNILAFIATALFILVPTAFLLIIYVKTVSQND
+  </sequence>
+</leaf>
+<leaf id="seq4" name="Wolffiella_lingulata">
+  <sequence>
+    MEVNILAFIATALFILVPTAFLLIIYVKTVSQND
+  </sequence>
+</leaf>
+<leaf id="seq5" name="Alocasia_macrorrhizos">
+  <sequence>
+    MEVNILALIATALFILVPTAFLLIIYVKTVSQND
+  </sequence>
+</leaf>
+<leaf id="seq6" name="Zea_mays">
+  <sequence>
+    MEVNILAFIATALFILVPTAFLLIIYVKTASQND
+  </sequence>
+</leaf>
+<leaf id="seq7" name="Symplocarpus_renifolius">
+  <sequence>
+    MEVNILAFIATALFILVPTAFLLIIYVKTVSQND
+  </sequence>
+</leaf>
+<leaf id="seq8" name="Epipremnum_aureum">
+  <sequence>
+    MEVNILAFIATALFILVPTAFLLIIYVKTVSQND
+  </sequence>
+</leaf>
+<leaf id="seq9" name="Dieffenbachia_seguine">
+  <sequence>
+    MEVNILAFIATALFILVPTAFLLIIYVKTVSQND
+  </sequence>
+</leaf>
+<leaf id="seq10" name="Colocasia_esculenta">
+  <sequence>
+    MEVNILAFIATALFILVPTAFLLIIYVKTVSQND
+  </sequence>
+</leaf>
+<leaf id="seq11" name="Pinellia_ternata">
+  <sequence>
+    MEVNILAFIATALFILVPTAFLLIIYVKTVSQND
+  </sequence>
+</leaf>
+<leaf id="seq12" name="Zantedeschia_aethiopica">
+  <sequence>
+    MEVNILAFIATALFILVPTAFLLIIYVKTVSQND
+  </sequence>
+</leaf>
+<node id="#1#">
+  <sequence>
+    MEVNILAFIATALFILVPTAFLLIIYVKTVSQND
+  </sequence>
+</node>
+<node id="#4#">
+  <sequence>
+    MEVNILAFIATALFILVPTAFLLIIYVKTVSQND
+  </sequence>
+</node>
+<node id="#5#">
+  <sequence>
+    MEVNILAFIATALFILVPTAFLLIIYVKTVSQND
+  </sequence>
+</node>
+<node id="#2#">
+  <sequence>
+    MEVNILAFIATALFILVPTAFLLIIYVKTVSQND
+  </sequence>
+</node>
+<node id="#6#">
+  <sequence>
+    MEVNILAFIATALFILVPTAFLLIIYVKTVSQND
+  </sequence>
+</node>
+<node id="#7#">
+  <sequence>
+    MEVNILAFIATALFILVPTAFLLIIYVKTVSQND
+  </sequence>
+</node>
+<node id="#8#">
+  <sequence>
+    MEVNILAFIATALFILVPTAFLLIIYVKTVSQND
+  </sequence>
+</node>
+<node id="#9#">
+  <sequence>
+    MEVNILAFIATALFILVPTAFLLIIYVKTVSQND
+  </sequence>
+</node>
+<node id="#10#">
+  <sequence>
+    MEVNILAFIATALFILVPTAFLLIIYVKTVSQND
+  </sequence>
+</node>
+<node id="#3#">
+  <sequence>
+    MEVNILAFIATALFILVPTAFLLIIYVKTVSQND
+  </sequence>
+</node>
+<node id="#11#">
+  <sequence>
+    MEVNILAFIATALFILVPTAFLLIIYVKTVSQND
+  </sequence>
+</node>
+</nodes>
+</ms_alignment>
